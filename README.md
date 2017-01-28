@@ -1,5 +1,7 @@
 # Retrocat
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/retrocat.svg)](https://greenkeeper.io/)
+
 A custom clone of the default theme for [Ghost](http://github.com/tryghost/ghost/).
 
 To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
